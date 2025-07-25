@@ -36,6 +36,7 @@
             }
         },
         "seo": {
+            "name": "Paf Casino Sverige",
             "title": "RockySpin Casino Deutschland \u2013 Sichere Spiele, schnelle Auszahlungen",
             "description": "RockySpin Casino Deutschland bietet erstklassige Spielautomaten, Live-Dealer und Krypto-Zahlungen f\u00fcr Echtgeldspiele. Melden Sie sich noch heute an und entdecken Sie riesige Boni und exklusive Funktionen.",
             "canonical": "https:\/\/rockyspinonline.com\/de",
@@ -69,7 +70,8 @@
         "topCasino": {
             "topCasinoButtonText": "Bonus einfordern",
             "title": "Top-Kasinos",
-            "allCasino": "Alle Kasinos"
+            "allCasino": "Alle Kasinos",
+            "welcomeBonusText": "Welcome bonus"
         },
         "bonusDetails": {
             "title": "Bonus-Details",
